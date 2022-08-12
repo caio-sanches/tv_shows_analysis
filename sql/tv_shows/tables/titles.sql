@@ -1,0 +1,18 @@
+CREATE TABLE dbo.titles (
+    id VARCHAR(256) COLLATE Latin1_General_100_CI_AI_SC_UTF8,
+    title VARCHAR(256) COLLATE Latin1_General_100_CI_AI_SC_UTF8,
+    show_type VARCHAR(256) COLLATE Latin1_General_100_CI_AI_SC_UTF8,
+    description VARCHAR(5000) COLLATE Latin1_General_100_CI_AI_SC_UTF8,
+    release_year INT,
+    age_certification VARCHAR(256) COLLATE Latin1_General_100_CI_AI_SC_UTF8,
+    runtime INT,
+    genres VARCHAR(256) COLLATE Latin1_General_100_CI_AI_SC_UTF8,
+    production_countries VARCHAR(256) COLLATE Latin1_General_100_CI_AI_SC_UTF8,
+    seasons VARCHAR(256) COLLATE Latin1_General_100_CI_AI_SC_UTF8,
+    imdb_id VARCHAR(256) COLLATE Latin1_General_100_CI_AI_SC_UTF8,
+    imdb_score VARCHAR(256) COLLATE Latin1_General_100_CI_AI_SC_UTF8,
+    imdb_votes VARCHAR(256) COLLATE Latin1_General_100_CI_AI_SC_UTF8,
+    tmdb_popularity VARCHAR(256) COLLATE Latin1_General_100_CI_AI_SC_UTF8,
+    tmdb_score VARCHAR(256) COLLATE Latin1_General_100_CI_AI_SC_UTF8,
+    streaming VARCHAR(256) COLLATE Latin1_General_100_CI_AI_SC_UTF8,
+);
