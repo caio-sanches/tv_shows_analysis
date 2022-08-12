@@ -31,7 +31,6 @@ Replicate this structure for the others one streamings.
 > netflix: https://www.kaggle.com/datasets/shivamb/netflix-shows
 > prime video: https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies
 
-<img src="https://img.shields.io/badge/last%20modified-today-brightgreen" alt="Power BI" width="30" height="30"/>
 
 #### Create a .env file
 If you don't know what it is a .env file I recommend this page:
@@ -50,4 +49,4 @@ I'm using a localhost express SQL Server.
 
 This project are developed as my portfolio. I want to include some features: automated tests with PyTest, DW Modeling and a Dashboard for analysis.
 
-<img src="https://img.shields.io/badge/last%20modified-today-brightgreen" alt="Power BI" width="30" height="30"/>
+<img src="https://img.shields.io/badge/last%20modified-today-brightgreen" alt="Power BI" width="100" height="30"/>
