@@ -48,5 +48,3 @@ I'm using a localhost express SQL Server.
 ### Disclaimer
 
 This project are developed as my portfolio. I want to include some features: automated tests with PyTest, DW Modeling and a Dashboard for analysis.
-
-<img src="https://img.shields.io/badge/last%20modified-august-22-brightgreen" alt="today" width="150" height="50"/>
